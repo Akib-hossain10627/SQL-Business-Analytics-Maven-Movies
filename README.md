@@ -1,4 +1,4 @@
-Project Title:SQL Business Analytics Project | Maven Movies Database
+Project Title: SQL Business Analytics Project | Maven Movies Database
 
 Project Overview:
 This project analyzes the Maven Movies database using SQL to answer real-world business questions related to revenue, customer behavior, 
